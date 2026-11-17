@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "lecture-1-q001",
+    "lectureId": "lecture-1",
+    "text": "What is the main function of a transducer?",
+    "options": [
+      "Converting one form of energy into another",
+      "Increasing the speed of sound",
+      "Producing mechanical energy only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q002",
+    "lectureId": "lecture-1",
+    "text": "During ultrasound transmission, electrical energy is converted into:",
+    "options": [
+      "Acoustic impedance",
+      "Mechanical sound waves",
+      "Electrical echo signals"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q003",
+    "lectureId": "lecture-1",
+    "text": "During ultrasound reception, returning sound waves are converted into:",
+    "options": [
+      "Mechanical vibrations only",
+      "Higher sound frequencies",
+      "Electrical signals"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q004",
+    "lectureId": "lecture-1",
+    "text": "Which piezoelectric effect is used during reception?",
+    "options": [
+      "Thermal effect",
+      "Direct effect",
+      "Reverse effect"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q005",
+    "lectureId": "lecture-1",
+    "text": "Which piezoelectric effect changes crystal thickness by applied voltage?",
+    "options": [
+      "Direct effect",
+      "Reverse (converse) effect",
+      "Damping effect"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q006",
+    "lectureId": "lecture-1",
+    "text": "What do all diagnostic ultrasound transducers share?",
+    "options": [
+      "Basic components that control acoustic energy",
+      "The same external shape",
+      "The same operating frequency"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q007",
+    "lectureId": "lecture-1",
+    "text": "Which component mainly controls pulse length?",
+    "options": [
+      "Protective cable",
+      "Backing (damping) material",
+      "Acoustic lens"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q008",
+    "lectureId": "lecture-1",
+    "text": "Which component reduces acoustic impedance mismatch at the skin?",
+    "options": [
+      "Matching layer",
+      "Backing material",
+      "Electrical shielding"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q009",
+    "lectureId": "lecture-1",
+    "text": "The acoustic lens mainly focuses the beam in the:",
+    "options": [
+      "Elevation plane",
+      "Electrical circuit",
+      "Rear surface"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q010",
+    "lectureId": "lecture-1",
+    "text": "Which component provides electrical shielding and structural support?",
+    "options": [
+      "Piezoelectric crystal only",
+      "Protective housing and cable",
+      "Matching layer only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q011",
+    "lectureId": "lecture-1",
+    "text": "What is the most common piezoelectric material in ultrasound probes?",
+    "options": [
+      "Rubberized silicone",
+      "Lead Zirconate Titanate (PZT)",
+      "Tungsten powder"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q012",
+    "lectureId": "lecture-1",
+    "text": "Which additional component is labeled in the transducer structure diagram?",
+    "options": [
+      "Tissue harmonic filter",
+      "Dynamic focusing circuit",
+      "Acoustic insulation"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q013",
+    "lectureId": "lecture-1",
+    "text": "The fundamental frequency of a piezoelectric crystal is given by:",
+    "options": [
+      "f₀ = c/(2d)",
+      "f₀ = 2cd",
+      "f₀ = d/(2c)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q014",
+    "lectureId": "lecture-1",
+    "text": "In the expression f₀ = c/(2d), d represents:",
+    "options": [
+      "Beam depth",
+      "Crystal thickness",
+      "Pulse duration"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q015",
+    "lectureId": "lecture-1",
+    "text": "In the expression f₀ = c/(2d), c represents:",
+    "options": [
+      "Sound speed in air only",
+      "Sound speed inside the piezoelectric material",
+      "Crystal capacitance"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q016",
+    "lectureId": "lecture-1",
+    "text": "When crystal thickness decreases, operating frequency:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains unchanged"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q017",
+    "lectureId": "lecture-1",
+    "text": "Which combination is associated with thinner crystals?",
+    "options": [
+      "Lower resolution and better penetration",
+      "Better resolution and lower penetration",
+      "Lower resolution and lower frequency"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q018",
+    "lectureId": "lecture-1",
+    "text": "Which combination is associated with thicker crystals?",
+    "options": [
+      "Better penetration and lower resolution",
+      "Better resolution and lower penetration",
+      "Higher frequency and lower penetration"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q019",
+    "lectureId": "lecture-1",
+    "text": "Where is the backing material attached?",
+    "options": [
+      "Front face of the acoustic lens",
+      "Rear face of the piezoelectric element",
+      "Outer surface of the cable"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q020",
+    "lectureId": "lecture-1",
+    "text": "What does damping reduce in the vibrating crystal?",
+    "options": [
+      "Matching-layer thickness",
+      "Ring-down",
+      "Electrical shielding"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q021",
+    "lectureId": "lecture-1",
+    "text": "Shortening the spatial pulse length (SPL) directly improves:",
+    "options": [
+      "Electrical grounding",
+      "Axial resolution",
+      "Field of view"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q022",
+    "lectureId": "lecture-1",
+    "text": "Where is the matching layer positioned?",
+    "options": [
+      "On the front face of the crystal",
+      "Inside the cable",
+      "On the rear face of the crystal"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q023",
+    "lectureId": "lecture-1",
+    "text": "The acoustic impedance of the matching layer is:",
+    "options": [
+      "Higher than PZT and tissue",
+      "Intermediate between PZT and tissue",
+      "Lower than both PZT and tissue"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q024",
+    "lectureId": "lecture-1",
+    "text": "What is the main purpose of a matching layer?",
+    "options": [
+      "Minimizing reflection at the skin interface",
+      "Preventing electromagnetic interference",
+      "Absorbing backward-directed pulses"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q025",
+    "lectureId": "lecture-1",
+    "text": "What material is mentioned for the acoustic lens?",
+    "options": [
+      "Tungsten powder",
+      "Rubberized silicone",
+      "Lead shielding"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q026",
+    "lectureId": "lecture-1",
+    "text": "The acoustic lens focuses the beam at a fixed depth in the:",
+    "options": [
+      "Cable direction",
+      "Elevation dimension",
+      "Electrical circuit"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q027",
+    "lectureId": "lecture-1",
+    "text": "What does electrical shielding mainly prevent?",
+    "options": [
+      "Decreased tissue penetration",
+      "Acoustic diffraction of small elements",
+      "External electromagnetic interference (EMI)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q028",
+    "lectureId": "lecture-1",
+    "text": "The insulating plastic housing protects internal parts against:",
+    "options": [
+      "High lateral resolution",
+      "Mechanical shock",
+      "Acoustic focusing"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q029",
+    "lectureId": "lecture-1",
+    "text": "Which component reduces electrical risk to both patient and operator?",
+    "options": [
+      "Piezoelectric film",
+      "Insulating plastic housing",
+      "Backing layer"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q030",
+    "lectureId": "lecture-2",
+    "text": "The backing layer is positioned directly:",
+    "options": [
+      "In front of the acoustic lens",
+      "Behind the piezoelectric element",
+      "Around the patient's skin"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q031",
+    "lectureId": "lecture-2",
+    "text": "The backing block is commonly made of:",
+    "options": [
+      "Pure acoustic gel",
+      "Resin containing dense scattered particles",
+      "Flexible silicone without fillers"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q032",
+    "lectureId": "lecture-2",
+    "text": "Which dense filler is commonly embedded in the backing material?",
+    "options": [
+      "Acoustic gel",
+      "Tungsten powder",
+      "PZT membrane"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q033",
+    "lectureId": "lecture-2",
+    "text": "What happens when an undamped piezoelectric crystal generates a pulse?",
+    "options": [
+      "It tends to continue ringing",
+      "Its impedance becomes zero",
+      "It stops vibrating immediately"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q034",
+    "lectureId": "lecture-2",
+    "text": "The backing layer rapidly dampens energy directed:",
+    "options": [
+      "Along the cable",
+      "Backward",
+      "Toward the patient's skin only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q035",
+    "lectureId": "lecture-2",
+    "text": "Damping the vibrating crystal primarily produces:",
+    "options": [
+      "A longer pulse",
+      "A very short pulse",
+      "A higher acoustic reflection"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q036",
+    "lectureId": "lecture-2",
+    "text": "Shorter pulses improve the ability to separate structures located:",
+    "options": [
+      "Close together along the beam path",
+      "Only across the transducer cable",
+      "Only outside the field of view"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q037",
+    "lectureId": "lecture-2",
+    "text": "The backing material should have an acoustic impedance:",
+    "options": [
+      "Very close to the piezoelectric element",
+      "Much lower than air",
+      "Identical to the protective housing"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q038",
+    "lectureId": "lecture-2",
+    "text": "Why is acoustic impedance matching important for the backing layer?",
+    "options": [
+      "To eliminate all tissue echoes",
+      "To increase the pulse ring-down",
+      "To prevent unwanted forward reflections"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q039",
+    "lectureId": "lecture-2",
+    "text": "Unwanted reflections near the crystal may cause:",
+    "options": [
+      "Wider field of view",
+      "Image artifacts and clutter",
+      "Higher image frame rate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q040",
+    "lectureId": "lecture-2",
+    "text": "What is the approximate acoustic impedance of PZT?",
+    "options": [
+      "1.5 × 10⁶ Rayls",
+      "30 × 10⁶ Rayls",
+      "0.3 × 10⁶ Rayls"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q041",
+    "lectureId": "lecture-2",
+    "text": "What is the approximate acoustic impedance of human tissue?",
+    "options": [
+      "150 × 10⁶ Rayls",
+      "1.5 × 10⁶ Rayls",
+      "30 × 10⁶ Rayls"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q042",
+    "lectureId": "lecture-2",
+    "text": "Without a matching layer, approximately how much sound is reflected at the probe face?",
+    "options": [
+      "80%",
+      "20%",
+      "5%"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q043",
+    "lectureId": "lecture-2",
+    "text": "The scientific solution to the impedance difference is to place:",
+    "options": [
+      "Only a thicker backing block",
+      "One or two matching layers",
+      "An extra grounding cable"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q044",
+    "lectureId": "lecture-2",
+    "text": "Matching-layer materials provide a gradual decrease in:",
+    "options": [
+      "Pulse repetition frequency",
+      "Acoustic impedance",
+      "Frame rate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q045",
+    "lectureId": "lecture-2",
+    "text": "How thick is each matching layer according to the lecture?",
+    "options": [
+      "One-quarter wavelength (λ/4)",
+      "One full wavelength (λ)",
+      "One-half wavelength (λ/2)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q046",
+    "lectureId": "lecture-2",
+    "text": "The lecture associates quarter-wave matching layers with:",
+    "options": [
+      "Mechanical movement of the probe",
+      "Constructive interference of reflected waves",
+      "Transverse crystal expansion"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q047",
+    "lectureId": "lecture-2",
+    "text": "A properly designed matching layer mainly increases:",
+    "options": [
+      "Sound reflected into the transducer",
+      "Acoustic energy transmitted into the body",
+      "Backward crystal ringing"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q048",
+    "lectureId": "lecture-2",
+    "text": "Which system characteristic improves with matching layers?",
+    "options": [
+      "Sensitivity",
+      "Mechanical shock",
+      "Electromagnetic interference"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q049",
+    "lectureId": "lecture-2",
+    "text": "Matching layers can also broaden the:",
+    "options": [
+      "Frequency bandwidth",
+      "Transducer housing thickness",
+      "Electrical cable diameter"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q050",
+    "lectureId": "lecture-2",
+    "text": "What does the matching-layer diagram illustrate?",
+    "options": [
+      "Constant impedance equal to PZT",
+      "A gradual impedance transition toward tissue",
+      "An abrupt rise in impedance toward skin"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q051",
+    "lectureId": "lecture-2",
+    "text": "Where is the acoustic lens located?",
+    "options": [
+      "At the extreme front of the transducer",
+      "Directly behind the damping block",
+      "Inside the processing console"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q052",
+    "lectureId": "lecture-2",
+    "text": "The acoustic lens is especially used for focusing in the:",
+    "options": [
+      "Electrical grounding circuit",
+      "Slice-thickness (elevation) plane",
+      "Cable transmission plane"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q053",
+    "lectureId": "lecture-2",
+    "text": "Which arrays have limited electronic control in the elevation plane?",
+    "options": [
+      "Modern 2D matrix arrays",
+      "All electronic processing chips",
+      "Traditional 1D arrays"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q054",
+    "lectureId": "lecture-2",
+    "text": "The acoustic lens is commonly made from:",
+    "options": [
+      "Lead-zirconate ceramic only",
+      "Specialized plastics or rubber compounds",
+      "Tungsten-epoxy particles"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q055",
+    "lectureId": "lecture-2",
+    "text": "The acoustic impedance of lens material should be:",
+    "options": [
+      "Closely matched to living tissue",
+      "Much higher than PZT",
+      "Equal to that of air"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q056",
+    "lectureId": "lecture-2",
+    "text": "What lens shapes can be used for acoustic focusing?",
+    "options": [
+      "Only rectangular",
+      "Convex or concave",
+      "Only flat and parallel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q057",
+    "lectureId": "lecture-2",
+    "text": "What is the main purpose of a curved acoustic lens?",
+    "options": [
+      "Converging sound energy at a target depth",
+      "Reducing electrical grounding",
+      "Increasing backward vibration"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q058",
+    "lectureId": "lecture-2",
+    "text": "What does CMUT stand for?",
+    "options": [
+      "Conventional Mechanical Ultrasound Transducer",
+      "Capacitive Micromachined Ultrasonic Transducer",
+      "Crystal Matrix Ultrasound Transmission"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q059",
+    "lectureId": "lecture-2",
+    "text": "CMUTs are fabricated using:",
+    "options": [
+      "Silicon micromachining (MEMS)",
+      "Conventional rubber molding",
+      "Only bulk tungsten powder"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q060",
+    "lectureId": "lecture-2",
+    "text": "What is the main moving structure in a CMUT?",
+    "options": [
+      "Thin vibrating membrane",
+      "Thick piezoelectric plate",
+      "External rubber cable"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q061",
+    "lectureId": "lecture-2",
+    "text": "The CMUT membrane is suspended over:",
+    "options": [
+      "Micro-cavities on a silicon substrate",
+      "A fluid-filled patient cavity",
+      "A thick backing resin only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q062",
+    "lectureId": "lecture-2",
+    "text": "The electrical property that changes during CMUT reception is:",
+    "options": [
+      "Crystal thickness",
+      "Capacitance",
+      "Acoustic velocity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q063",
+    "lectureId": "lecture-2",
+    "text": "CMUT transmission uses which electrical combination?",
+    "options": [
+      "Only mechanical pressure",
+      "DC bias voltage and an AC signal",
+      "A grounding wire without voltage"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q064",
+    "lectureId": "lecture-2",
+    "text": "What is the fractional bandwidth of CMUTs mentioned in the lecture?",
+    "options": [
+      "Approximately 10%",
+      "Exceeding 100%",
+      "Below 1%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q065",
+    "lectureId": "lecture-2",
+    "text": "An ultra-wide CMUT bandwidth improves:",
+    "options": [
+      "Axial resolution",
+      "Electrical safety only",
+      "Acoustic gel thickness"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q066",
+    "lectureId": "lecture-2",
+    "text": "CMUT electronics may be integrated on the same silicon chip using:",
+    "options": [
+      "Tungsten doping",
+      "CMOS integration",
+      "Rubberized lens bonding"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q067",
+    "lectureId": "lecture-2",
+    "text": "What does PMUT stand for?",
+    "options": [
+      "Piezoelectric Micromachined Ultrasonic Transducer",
+      "Programmable Magnetic Ultrasound Tube",
+      "Phase-Matched Ultrasonic Transmitter"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q068",
+    "lectureId": "lecture-2",
+    "text": "The active material used in PMUTs is mainly:",
+    "options": [
+      "Thick acoustic gel",
+      "Thin piezoelectric film",
+      "A large air capacitor only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q069",
+    "lectureId": "lecture-2",
+    "text": "PMUT piezoelectric films are mounted on:",
+    "options": [
+      "Large external acoustic lenses",
+      "Microscopic bending diaphragms",
+      "Patient-contact grounding pads"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q070",
+    "lectureId": "lecture-2",
+    "text": "PMUTs combine MEMS manufacturing with:",
+    "options": [
+      "High electromagnetic interference",
+      "High piezoelectric coupling efficiency",
+      "Mechanical scanning gears"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q071",
+    "lectureId": "lecture-2",
+    "text": "A common clinical application of PMUTs is:",
+    "options": [
+      "Radiation therapy planning only",
+      "Conventional x-ray fluoroscopy",
+      "Point-of-care ultrasound (POCUS)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q072",
+    "lectureId": "lecture-2",
+    "text": "A modern 2D matrix array contains:",
+    "options": [
+      "One continuous crystal without elements",
+      "Thousands of elements in a 2D grid",
+      "A single row with two elements"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q073",
+    "lectureId": "lecture-2",
+    "text": "Matrix arrays allow beam steering mainly by:",
+    "options": [
+      "Moving the probe's internal motor",
+      "Electronic control",
+      "Manual rotation of the lens"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q074",
+    "lectureId": "lecture-2",
+    "text": "Which imaging modes are supported by 2D matrix arrays?",
+    "options": [
+      "Only conventional radiographs",
+      "Real-time 3D/4D imaging",
+      "Only static 1D traces"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q075",
+    "lectureId": "lecture-2",
+    "text": "Matrix transducers can obtain real-time 3D/4D images without:",
+    "options": [
+      "Mechanical movement inside the probe",
+      "Any electrical signals",
+      "Piezoelectric elements"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q076",
+    "lectureId": "lecture-2",
+    "text": "Which clinical fields benefit from modern matrix arrays?",
+    "options": [
+      "Only audiometry",
+      "Only dermatology and dentistry",
+      "Cardiology and obstetrics"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q077",
+    "lectureId": "lecture-2",
+    "text": "In the technology diagram, piezoelectric composite material contains:",
+    "options": [
+      "Only a silicon vibrating membrane",
+      "Small crystals in an epoxy matrix",
+      "Only acoustic gel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q078",
+    "lectureId": "lecture-2",
+    "text": "Piezoelectric composites are shown to improve:",
+    "options": [
+      "Mechanical scan rotation and cable length",
+      "Sensitivity and reduced crystal acoustic impedance",
+      "Grating-lobe intensity and scattered noise"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q079",
+    "lectureId": "lecture-3",
+    "text": "Modern real-time array transducers consist of elements arranged:",
+    "options": [
+      "Inside the display unit",
+      "Side-by-side",
+      "One behind another only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q080",
+    "lectureId": "lecture-3",
+    "text": "A typical ultrasound array probe contains approximately:",
+    "options": [
+      "10–25 elements",
+      "120–250 elements",
+      "5000–7000 elements"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q081",
+    "lectureId": "lecture-3",
+    "text": "The width of each array element is approximately:",
+    "options": [
+      "Independent of wavelength",
+      "Ten times the wavelength",
+      "Equal to or slightly less than wavelength (λ)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q082",
+    "lectureId": "lecture-3",
+    "text": "Which array is mainly used for vascular access?",
+    "options": [
+      "Curvilinear array",
+      "Linear array",
+      "Phased array only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q083",
+    "lectureId": "lecture-3",
+    "text": "Which superficial structures are commonly examined with a linear array?",
+    "options": [
+      "Nerves, thyroid, breast and testes",
+      "Liver, uterus and deep pelvis only",
+      "Heart chambers through the ribs only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q084",
+    "lectureId": "lecture-3",
+    "text": "The operating frequency of a linear array is usually:",
+    "options": [
+      "2–5 kHz",
+      "1–2 MHz only",
+      "7.5 MHz or higher"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q085",
+    "lectureId": "lecture-3",
+    "text": "Which array is commonly used for abdominal ultrasound?",
+    "options": [
+      "Linear array only",
+      "Curvilinear array",
+      "High-frequency superficial probe only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q086",
+    "lectureId": "lecture-3",
+    "text": "The frequency range of a curvilinear array is approximately:",
+    "options": [
+      "15–25 MHz",
+      "2–5 MHz",
+      "7.5–15 MHz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q087",
+    "lectureId": "lecture-3",
+    "text": "Curvilinear arrays generally provide:",
+    "options": [
+      "No deep penetration",
+      "High imaging depth",
+      "Low imaging depth only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q088",
+    "lectureId": "lecture-3",
+    "text": "Which heart-related application is mentioned for curvilinear arrays?",
+    "options": [
+      "Pericardial imaging only",
+      "Complete echocardiography as the main use",
+      "Coronary angiography"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q089",
+    "lectureId": "lecture-3",
+    "text": "Which array is the preferred choice for routine echocardiography?",
+    "options": [
+      "Linear array",
+      "Phased array",
+      "Curvilinear array only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q090",
+    "lectureId": "lecture-3",
+    "text": "What is the typical frequency range of phased arrays?",
+    "options": [
+      "7.5–15 MHz",
+      "1–5 MHz",
+      "15–30 MHz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q091",
+    "lectureId": "lecture-3",
+    "text": "Which array has a small footprint suitable for scanning between ribs?",
+    "options": [
+      "Curvilinear array",
+      "Phased array",
+      "Linear array"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q092",
+    "lectureId": "lecture-3",
+    "text": "Which application of phased arrays is described as not ideal?",
+    "options": [
+      "Abdominal ultrasound",
+      "Scanning through rib spaces",
+      "Echocardiography"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q093",
+    "lectureId": "lecture-3",
+    "text": "How are linear-array elements arranged?",
+    "options": [
+      "In a straight flat line",
+      "In a circular spiral",
+      "Along a curved arch"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q094",
+    "lectureId": "lecture-3",
+    "text": "How are curvilinear-array elements arranged?",
+    "options": [
+      "In a straight flat line",
+      "Along a curved arch",
+      "In one long vertical stack"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q095",
+    "lectureId": "lecture-3",
+    "text": "A linear array usually produces which image shape?",
+    "options": [
+      "Rectangular",
+      "Blunted sector",
+      "Circular"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q096",
+    "lectureId": "lecture-3",
+    "text": "Which array produces a blunted sector or trapezoidal display?",
+    "options": [
+      "Linear array",
+      "Curvilinear array",
+      "Single straight scan line"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q097",
+    "lectureId": "lecture-3",
+    "text": "In a linear image, scan lines remain:",
+    "options": [
+      "Convergent toward the skin",
+      "Progressively divergent with depth",
+      "Parallel at all depths"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q098",
+    "lectureId": "lecture-3",
+    "text": "In a curvilinear image, the field of view:",
+    "options": [
+      "Narrows continuously with depth",
+      "Expands with increasing depth",
+      "Remains rectangular at all depths"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q099",
+    "lectureId": "lecture-3",
+    "text": "Which array is more suitable for deep pelvic examinations?",
+    "options": [
+      "Curvilinear array",
+      "Linear array",
+      "High-frequency superficial array"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q100",
+    "lectureId": "lecture-3",
+    "text": "Which array is commonly used for obstetrical and gynecological evaluation?",
+    "options": [
+      "Curvilinear array",
+      "High-frequency vascular probe",
+      "Linear array only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q101",
+    "lectureId": "lecture-3",
+    "text": "Exciting a single very narrow array element mainly causes:",
+    "options": [
+      "Elimination of beam divergence",
+      "Severe acoustic diffraction",
+      "Perfect beam focusing"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q102",
+    "lectureId": "lecture-3",
+    "text": "Why are multiple adjacent elements excited together?",
+    "options": [
+      "To form an effective directional transmit aperture",
+      "To increase the probe housing thickness",
+      "To eliminate reception of echoes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q103",
+    "lectureId": "lecture-3",
+    "text": "An active transmit group usually contains:",
+    "options": [
+      "16–32 adjacent elements",
+      "1–2 widely separated elements",
+      "120–250 simultaneously in every group"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q104",
+    "lectureId": "lecture-3",
+    "text": "Which principle explains constructive combination of array wavelets?",
+    "options": [
+      "Inverse square law",
+      "Huygens' principle",
+      "Ohm's law"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q105",
+    "lectureId": "lecture-3",
+    "text": "In the example, Active Group 1 contains elements:",
+    "options": [
+      "2–17",
+      "1–16",
+      "16–32"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q106",
+    "lectureId": "lecture-3",
+    "text": "After the first scan line, the active group shifts by:",
+    "options": [
+      "One element position",
+      "Sixteen element positions",
+      "One full array length"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q107",
+    "lectureId": "lecture-3",
+    "text": "Which mechanism moves the active group across the array?",
+    "options": [
+      "Electronic beam stepping",
+      "Mechanical movement of the housing",
+      "Manual adjustment of the lens"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q108",
+    "lectureId": "lecture-3",
+    "text": "Beam stepping is used to construct:",
+    "options": [
+      "Only an electrical safety signal",
+      "A 2D image frame",
+      "Only acoustic gel thickness"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q109",
+    "lectureId": "lecture-3",
+    "text": "The lecture states that one 2D frame can be built in less than:",
+    "options": [
+      "1/2 second",
+      "1/30 second",
+      "10 seconds"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q110",
+    "lectureId": "lecture-3",
+    "text": "Lateral resolution describes the ability to distinguish objects:",
+    "options": [
+      "At different examination times",
+      "Side-by-side perpendicular to the beam",
+      "One behind another along the beam"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q111",
+    "lectureId": "lecture-3",
+    "text": "A narrower ultrasound beam produces:",
+    "options": [
+      "Better lateral resolution",
+      "Longer pulse duration in all cases",
+      "Poorer lateral resolution"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q112",
+    "lectureId": "lecture-3",
+    "text": "Which technique electronically narrows the transmitted beam at a target depth?",
+    "options": [
+      "Electrical shielding",
+      "Phase delay focusing",
+      "Tissue harmonic filtering"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q113",
+    "lectureId": "lecture-3",
+    "text": "Phase delays are applied to the electrical excitation of:",
+    "options": [
+      "The external display only",
+      "Individual elements in the active group",
+      "The patient's skin"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q114",
+    "lectureId": "lecture-3",
+    "text": "During transmit phase delay focusing, which elements fire first?",
+    "options": [
+      "Outer elements",
+      "All elements at exactly the same time",
+      "Inner elements"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q115",
+    "lectureId": "lecture-3",
+    "text": "The transmit delay pattern is described as:",
+    "options": [
+      "Random",
+      "Parabolic",
+      "Uniform with no delay"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q116",
+    "lectureId": "lecture-3",
+    "text": "Phase delay focusing creates which wavefront shape?",
+    "options": [
+      "Flat and divergent",
+      "Concave",
+      "Irregular and uncorrelated"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q117",
+    "lectureId": "lecture-3",
+    "text": "A concave transmitted wavefront converges at the:",
+    "options": [
+      "Cable connector",
+      "Specified focal depth",
+      "Rear face of the backing block"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q118",
+    "lectureId": "lecture-3",
+    "text": "Why are multiple transmit focal zones used?",
+    "options": [
+      "To improve lateral resolution at different depths",
+      "To increase external electrical noise",
+      "To reduce the number of scan lines to zero"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q119",
+    "lectureId": "lecture-3",
+    "text": "Using more transmit focal zones generally reduces:",
+    "options": [
+      "Acoustic impedance of PZT",
+      "Temporal resolution (frame rate)",
+      "Axial sensitivity in all cases"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q120",
+    "lectureId": "lecture-3",
+    "text": "Which equation gives the frame rate in multi-focal imaging?",
+    "options": [
+      "N foci / (PRF × N lines)",
+      "PRF / (N lines × N foci)",
+      "PRF × N lines × N foci"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q121",
+    "lectureId": "lecture-3",
+    "text": "What does PRF stand for?",
+    "options": [
+      "Pulse Repetition Frequency",
+      "Pulse Resolution Factor",
+      "Probe Reflection Frequency"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q122",
+    "lectureId": "lecture-3",
+    "text": "In the frame-rate equation, N foci represents:",
+    "options": [
+      "Number of tissue boundaries",
+      "Transmit focal zones per scan line",
+      "Number of receiving cables"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q123",
+    "lectureId": "lecture-3",
+    "text": "If PRF is constant, doubling N foci will:",
+    "options": [
+      "Keep the frame rate unchanged",
+      "Halve the frame rate",
+      "Double the frame rate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q124",
+    "lectureId": "lecture-3",
+    "text": "Imaging moving structures with many focal zones may cause:",
+    "options": [
+      "Motion blurring",
+      "Less pulse transmission",
+      "Higher temporal resolution"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q125",
+    "lectureId": "lecture-3",
+    "text": "Returning echoes from deep tissues form:",
+    "options": [
+      "Straight electrical currents",
+      "Curved spherical wavefronts",
+      "Perfectly flat acoustic plates"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q126",
+    "lectureId": "lecture-3",
+    "text": "The main purpose of dynamic receive focusing is to prevent:",
+    "options": [
+      "Piezoelectric conversion",
+      "Phase cancellation",
+      "Acoustic gel contact"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q127",
+    "lectureId": "lecture-3",
+    "text": "Dynamic receive focusing holds signals from:",
+    "options": [
+      "Only outer elements",
+      "The protective cable",
+      "Central elements"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q128",
+    "lectureId": "lecture-3",
+    "text": "Dynamic receive delay patterns are:",
+    "options": [
+      "Fixed at one value for every depth",
+      "Continuously adjusted with depth",
+      "Applied only during transmission"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q129",
+    "lectureId": "lecture-3",
+    "text": "Dynamic receive focusing mainly ensures:",
+    "options": [
+      "Greater mechanical reflection",
+      "Random phase cancellation",
+      "In-phase constructive signal summation"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q130",
+    "lectureId": "lecture-3",
+    "text": "What happens to frame rate with dynamic receive focusing?",
+    "options": [
+      "It is always reduced by half",
+      "It is not affected",
+      "It must increase tenfold"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q131",
+    "lectureId": "lecture-3",
+    "text": "Dynamic aperture control is mainly used to keep:",
+    "options": [
+      "Beam width narrow",
+      "Crystal thickness increasing",
+      "Electrical interference high"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q132",
+    "lectureId": "lecture-3",
+    "text": "At shallow depths, the receiving aperture is:",
+    "options": [
+      "Large, using all outer elements",
+      "Small, using few central elements",
+      "Completely closed"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q133",
+    "lectureId": "lecture-3",
+    "text": "At greater depths, dynamic aperture control:",
+    "options": [
+      "Keeps only one central element",
+      "Removes all outer elements",
+      "Engages more outer elements"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q134",
+    "lectureId": "lecture-3",
+    "text": "Which relationship defines the f-number?",
+    "options": [
+      "Focal length / Aperture size",
+      "Focal length × Aperture size",
+      "Aperture size / Focal length"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q135",
+    "lectureId": "lecture-3",
+    "text": "Dynamic aperture aims to maintain a constant:",
+    "options": [
+      "Pulse voltage",
+      "f-number",
+      "Tissue density"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q136",
+    "lectureId": "lecture-3",
+    "text": "Maintaining a constant f-number helps stabilize:",
+    "options": [
+      "Electrical cable shielding",
+      "Lateral resolution with depth",
+      "Patient body temperature"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q137",
+    "lectureId": "lecture-3",
+    "text": "Off-axis secondary beams may cause:",
+    "options": [
+      "Better matching-layer transmission",
+      "Clutter and false B-mode echoes",
+      "Increased frame rate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q138",
+    "lectureId": "lecture-3",
+    "text": "Which artifact can occur in all types of transducers?",
+    "options": [
+      "Side lobes",
+      "Grating lobes only",
+      "Slice-thickness correction"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q139",
+    "lectureId": "lecture-3",
+    "text": "Side lobes are related to:",
+    "options": [
+      "Changing probe contact gel",
+      "Transverse expansion and contraction of crystal elements",
+      "Quarter-wave matching-layer thickness"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q140",
+    "lectureId": "lecture-3",
+    "text": "Grating lobes are particularly associated with:",
+    "options": [
+      "Only single-element transducers",
+      "Array transducers",
+      "Only acoustic lenses"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q141",
+    "lectureId": "lecture-3",
+    "text": "Which condition promotes grating lobe formation?",
+    "options": [
+      "Element spacing d < λ/2",
+      "Element spacing d > λ",
+      "Zero spacing between elements"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q142",
+    "lectureId": "lecture-3",
+    "text": "Grating lobes originate from:",
+    "options": [
+      "Periodic element spacing",
+      "Signal transport cables",
+      "Protective plastic insulation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q143",
+    "lectureId": "lecture-3",
+    "text": "Grating lobes can create false echoes inside:",
+    "options": [
+      "Only the external monitor",
+      "Only bone surfaces",
+      "Fluid-filled structures"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q144",
+    "lectureId": "lecture-3",
+    "text": "Which structures are mentioned as examples of grating-lobe clutter?",
+    "options": [
+      "Thyroid and skin only",
+      "Gallbladder and blood vessels",
+      "Ribs and cartilage only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q145",
+    "lectureId": "lecture-3",
+    "text": "Subdicing aims to reduce effective element spacing below:",
+    "options": [
+      "Half a wavelength (λ/2)",
+      "Two wavelengths (2λ)",
+      "One full wavelength (λ)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q146",
+    "lectureId": "lecture-3",
+    "text": "The primary benefit of subdicing is:",
+    "options": [
+      "Prevention of grating lobe formation",
+      "Increasing grating lobe amplitude",
+      "Increasing lateral false echoes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q147",
+    "lectureId": "lecture-3",
+    "text": "During subdicing, the small sub-elements are:",
+    "options": [
+      "Electrically isolated and never used",
+      "Electrically connected to act as one unit",
+      "Replaced by acoustic gel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q148",
+    "lectureId": "lecture-3",
+    "text": "What is apodization in array transducers?",
+    "options": [
+      "Changing the patient's position",
+      "Applying graded excitation voltage",
+      "Increasing crystal thickness uniformly"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q149",
+    "lectureId": "lecture-3",
+    "text": "During apodization, the highest voltage is applied to:",
+    "options": [
+      "Central elements",
+      "The acoustic lens only",
+      "Outer elements"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q150",
+    "lectureId": "lecture-3",
+    "text": "Apodization reduces the intensity of:",
+    "options": [
+      "Only the transmitted axial pulse",
+      "Side lobes and grating lobes",
+      "Only the main ultrasound beam"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q151",
+    "lectureId": "lecture-3",
+    "text": "The harmonic frequency mentioned in THI is:",
+    "options": [
+      "2f₀",
+      "f₀/2",
+      "4f₀ only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q152",
+    "lectureId": "lecture-3",
+    "text": "Harmonic frequencies used in THI are generated mainly:",
+    "options": [
+      "Only in the backing layer",
+      "Within the tissue",
+      "Inside the protective cable"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q153",
+    "lectureId": "lecture-3",
+    "text": "Why do grating lobes contribute little to tissue harmonic signals?",
+    "options": [
+      "Their electrical voltage is constant",
+      "Their acoustic energy is weak",
+      "Their frequency is always zero"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q154",
+    "lectureId": "lecture-3",
+    "text": "Which suppression method filters fundamental frequencies?",
+    "options": [
+      "Subdicing",
+      "Tissue Harmonic Imaging (THI)",
+      "Apodization"
+    ],
+    "correct": 1
+  }
+]

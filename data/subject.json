@@ -1,0 +1,10 @@
+{
+  "id": "ultrasound-devices",
+  "name": "أجهزة السونار",
+  "platformTitle": "منصة QDU للاختبار التفاعلي",
+  "author": "مقتدى الكناني",
+  "contentVersion": "ultrasound-devices-1",
+  "enrichmentFiles": [
+    "enrichment.json"
+  ]
+}
